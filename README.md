@@ -16,7 +16,7 @@
 
 ## ER 図
 
-~/coachtech/laravel/ec-test/er.png
+![ER図](er.png)
 
 ## URL
 
