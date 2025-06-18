@@ -14,11 +14,10 @@
 - Laravel 8.83.8
 - MySQL 8.0.26
 
-## ER図
+## ER 図
 
-public/images/er.png
+~/coachtech/laravel/ec-test/er.png
 
 ## URL
 
 - 開発環境： http://localhost/
-- phpMyAdmin： http://localhost:8080/
